@@ -32,7 +32,7 @@ Grandes: acima de 1200px
         width: 950px;
     }
     section#login >div#imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
@@ -40,5 +40,12 @@ Grandes: acima de 1200px
         float: left;
         width: 50%;
         height: 100%;
+    }
+    div#fomulario > h1{
+        font-size: 2em;
+    }
+    div#fomulario > p{
+        margin: 10px 10px 10px 10px;
+        font-size: 1.2em;
     }
 }
